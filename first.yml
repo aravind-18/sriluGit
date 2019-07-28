@@ -1,0 +1,12 @@
+# This is my first Yaml file
+- empname: aravind
+  empid: 1001 
+  salary: 50000
+
+- empname: kumar
+  empid: 1002 
+  salary: 60000
+
+- empname: sai
+  empid: 1003
+  salary: 70000
